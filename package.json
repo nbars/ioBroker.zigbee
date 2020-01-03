@@ -1,6 +1,6 @@
 {
   "name": "iobroker.zigbee",
-  "version": "0.11.5",
+  "version": "0.11.5-x",
   "author": {
     "name": "Kirov Ilya",
     "email": "kirovilya@gmail.com"
@@ -12,6 +12,10 @@
     {
       "name": "Kirov Ilya",
       "email": "kirovilya@gmail.com"
+    },
+    {
+      "name": "Axel Eschenburg (Asgothian)",
+      "email": "Axel.Eschenburg@gmx.de"
     }
   ],
   "engines": {
